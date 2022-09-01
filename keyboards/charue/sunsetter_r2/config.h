@@ -41,3 +41,10 @@
 #define LOCKING_SUPPORT_ENABLE
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
+
+/* dynamic macro combination */
+#define COMBO_COUNT 4
+#define DYNAMIC_MACRO_DELAY 150
+
+/* mouse keys settings */
+#define MOUSEKEY_BASE_SPEED 4000
