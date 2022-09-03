@@ -18,3 +18,4 @@ RGBLIGHT_ENABLE = yes        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
 COMBO_ENABLE = yes		  # Enable combos
 DYNAMIC_MACRO_ENABLE = yes  # Enable dynamic macro functionality
+DYNAMIC_MACRO_NO_NESTING = true

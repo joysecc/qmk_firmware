@@ -47,4 +47,5 @@
 #define DYNAMIC_MACRO_DELAY 150
 
 /* mouse keys settings */
-#define MOUSEKEY_BASE_SPEED 4000
+//#define MOUSEKEY_BASE_SPEED 4000
+#define MOUSEKEY_INITIAL_SPEED 50
